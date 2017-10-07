@@ -1,0 +1,8 @@
+要洗的欄位
+url  物件的網址
+name  惡房東（固定都用惡房東命名）
+address 地址（要細到可以在googlemap上定位的）
+lat    緯度 
+lng    經度
+cityID  區號
+

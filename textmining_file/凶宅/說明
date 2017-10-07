@@ -1,0 +1,8 @@
+要洗的欄位
+url  物件的網址
+name  凶宅（固定都用凶宅命名）
+address 地址
+lat    緯度 
+lng    經度
+cityID  區號（每個jsonobject的第一個網址後面3碼即是）
+
